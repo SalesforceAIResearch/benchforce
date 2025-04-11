@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+.env
+*.log
+history/*
+.DS_Store
+/src/environments/**/updates/
+benchforce.egg-info
+build

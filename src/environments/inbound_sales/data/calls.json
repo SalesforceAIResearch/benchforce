@@ -1,0 +1,98 @@
+{
+  "CALL_L1001": {
+    "call_id": "CALL_L1001",
+    "lead_id": "L1001",
+    "rep_name": "Oliver King",
+    "call_outcome": "interested"
+  },
+  "CALL_L1003": {
+    "call_id": "CALL_L1003",
+    "lead_id": "L1003",
+    "rep_name": "Lucas Turner",
+    "call_outcome": "not interested"
+  },
+  "CALL_L1005": {
+    "call_id": "CALL_L1005",
+    "lead_id": "L1005",
+    "rep_name": "Emma Scott",
+    "call_outcome": "callback requested"
+  },
+  "CALL_L1007": {
+    "call_id": "CALL_L1007",
+    "lead_id": "L1007",
+    "rep_name": "Mia Adams",
+    "call_outcome": "interested"
+  },
+  "CALL_L1009": {
+    "call_id": "CALL_L1009",
+    "lead_id": "L1009",
+    "rep_name": "Ethan Parker",
+    "call_outcome": "not interested"
+  },
+  "CALL_L1011": {
+    "call_id": "CALL_L1011",
+    "lead_id": "L1011",
+    "rep_name": "Ava Bennett",
+    "call_outcome": "interested"
+  },
+  "CALL_L1013": {
+    "call_id": "CALL_L1013",
+    "lead_id": "L1013",
+    "rep_name": "Jackson Murphy",
+    "call_outcome": "interested"
+  },
+  "CALL_L1015": {
+    "call_id": "CALL_L1015",
+    "lead_id": "L1015",
+    "rep_name": "Isabella Brooks",
+    "call_outcome": "callback requested"
+  },
+  "CALL_L1017": {
+    "call_id": "CALL_L1017",
+    "lead_id": "L1017",
+    "rep_name": "Mason Howard",
+    "call_outcome": "not interested"
+  },
+  "CALL_L1019": {
+    "call_id": "CALL_L1019",
+    "lead_id": "L1019",
+    "rep_name": "Sophia Carter",
+    "call_outcome": "interested"
+  },
+  "CALL_L1021": {
+    "call_id": "CALL_L1021",
+    "lead_id": "L1021",
+    "rep_name": "Liam Rivera",
+    "call_outcome": "callback requested"
+  },
+  "CALL_L1023": {
+    "call_id": "CALL_L1023",
+    "lead_id": "L1023",
+    "rep_name": "Noah Griffin",
+    "call_outcome": "interested"
+  },
+  "CALL_L1025": {
+    "call_id": "CALL_L1025",
+    "lead_id": "L1025",
+    "rep_name": "Charlotte Bell",
+    "call_outcome": "interested"
+  },
+  "CALL_L1027": {
+    "call_id": "CALL_L1027",
+    "lead_id": "L1027",
+    "rep_name": "Benjamin Ward",
+    "call_outcome": "not interested"
+  },
+  "CALL_L1029": {
+    "call_id": "CALL_L1029",
+    "lead_id": "L1029",
+    "rep_name": "Harper Ross",
+    "call_outcome": "interested"
+  },
+  "CALL_L1031": {
+    "call_id": "CALL_L1031",
+    "lead_id": "L1031",
+    "rep_name": "Oliver King",
+    "call_outcome": "callback requested"
+  }
+}

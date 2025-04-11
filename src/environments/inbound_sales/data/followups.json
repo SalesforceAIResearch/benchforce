@@ -1,0 +1,77 @@
+{
+  "FUP_L1002": {
+    "followup_id": "FUP_L1002",
+    "lead_id": "L1002",
+    "followup_action": "Send product brochure via email"
+  },
+  "FUP_L1004": {
+    "followup_id": "FUP_L1004",
+    "lead_id": "L1004",
+    "followup_action": "Schedule follow-up call in 3 days"
+  },
+  "FUP_L1006": {
+    "followup_id": "FUP_L1006",
+    "lead_id": "L1006",
+    "followup_action": "Send case study and pricing details"
+  },
+  "FUP_L1008": {
+    "followup_id": "FUP_L1008",
+    "lead_id": "L1008",
+    "followup_action": "Email demo schedule and product brochure"
+  },
+  "FUP_L1010": {
+    "followup_id": "FUP_L1010",
+    "lead_id": "L1010",
+    "followup_action": "Confirm demo appointment via phone"
+  },
+  "FUP_L1012": {
+    "followup_id": "FUP_L1012",
+    "lead_id": "L1012",
+    "followup_action": "Send follow-up email with additional details"
+  },
+  "FUP_L1014": {
+    "followup_id": "FUP_L1014",
+    "lead_id": "L1014",
+    "followup_action": "Schedule call for further qualification"
+  },
+  "FUP_L1016": {
+    "followup_id": "FUP_L1016",
+    "lead_id": "L1016",
+    "followup_action": "Send webinar invite and product info"
+  },
+  "FUP_L1018": {
+    "followup_id": "FUP_L1018",
+    "lead_id": "L1018",
+    "followup_action": "Set up a product demo"
+  },
+  "FUP_L1020": {
+    "followup_id": "FUP_L1020",
+    "lead_id": "L1020",
+    "followup_action": "Follow up on inventory management inquiry"
+  },
+  "FUP_L1022": {
+    "followup_id": "FUP_L1022",
+    "lead_id": "L1022",
+    "followup_action": "Schedule consultation on sustainable energy"
+  },
+  "FUP_L1024": {
+    "followup_id": "FUP_L1024",
+    "lead_id": "L1024",
+    "followup_action": "Send branding and design portfolio"
+  },
+  "FUP_L1026": {
+    "followup_id": "FUP_L1026",
+    "lead_id": "L1026",
+    "followup_action": "Email digital marketing service details"
+  },
+  "FUP_L1028": {
+    "followup_id": "FUP_L1028",
+    "lead_id": "L1028",
+    "followup_action": "Schedule a product walkthrough call"
+  },
+  "FUP_L1030": {
+    "followup_id": "FUP_L1030",
+    "lead_id": "L1030",
+    "followup_action": "Send SaaS solution pricing details"
+  }
+}

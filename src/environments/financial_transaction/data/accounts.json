@@ -1,0 +1,212 @@
+{
+  "CC1001": {
+    "account_number": "CC1001",
+    "account_holder": "Alice Johnson",
+    "balance": 1520.35,
+    "points_balance": 12500,
+    "credit_limit": 5000,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1002": {
+    "account_number": "CC1002",
+    "account_holder": "Bob Smith",
+    "balance": 230.50,
+    "points_balance": 4500,
+    "credit_limit": 3000,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1003": {
+    "account_number": "CC1003",
+    "account_holder": "Charlie Williams",
+    "balance": 780.00,
+    "points_balance": 8000,
+    "credit_limit": 4000,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1004": {
+    "account_number": "CC1004",
+    "account_holder": "Diana Brown",
+    "balance": 0.00,
+    "points_balance": 10500,
+    "credit_limit": 6000,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1005": {
+    "account_number": "CC1005",
+    "account_holder": "Edward Davis",
+    "balance": 340.20,
+    "points_balance": 6200,
+    "credit_limit": 3500,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1006": {
+    "account_number": "CC1006",
+    "account_holder": "Fiona Garcia",
+    "balance": 1120.90,
+    "points_balance": 9800,
+    "credit_limit": 4500,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1007": {
+    "account_number": "CC1007",
+    "account_holder": "George Martinez",
+    "balance": 560.75,
+    "points_balance": 7300,
+    "credit_limit": 4000,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1008": {
+    "account_number": "CC1008",
+    "account_holder": "Hannah Rodriguez",
+    "balance": 95.00,
+    "points_balance": 3000,
+    "credit_limit": 2500,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1009": {
+    "account_number": "CC1009",
+    "account_holder": "Ian Lee",
+    "balance": 845.60,
+    "points_balance": 5400,
+    "credit_limit": 3200,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1010": {
+    "account_number": "CC1010",
+    "account_holder": "Julia Kim",
+    "balance": 430.10,
+    "points_balance": 6800,
+    "credit_limit": 3700,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1011": {
+    "account_number": "CC1011",
+    "account_holder": "Kevin Turner",
+    "balance": 980.00,
+    "points_balance": 7200,
+    "credit_limit": 4200,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1012": {
+    "account_number": "CC1012",
+    "account_holder": "Laura Wilson",
+    "balance": 120.45,
+    "points_balance": 8300,
+    "credit_limit": 2800,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1013": {
+    "account_number": "CC1013",
+    "account_holder": "Michael Anderson",
+    "balance": 675.30,
+    "points_balance": 9100,
+    "credit_limit": 3900,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1014": {
+    "account_number": "CC1014",
+    "account_holder": "Natalie Moore",
+    "balance": 250.00,
+    "points_balance": 4700,
+    "credit_limit": 3300,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1015": {
+    "account_number": "CC1015",
+    "account_holder": "Oliver Scott",
+    "balance": 112.75,
+    "points_balance": 3600,
+    "credit_limit": 2900,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1016": {
+    "account_number": "CC1016",
+    "account_holder": "Patricia Young",
+    "balance": 640.00,
+    "points_balance": 8400,
+    "credit_limit": 4100,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1017": {
+    "account_number": "CC1017",
+    "account_holder": "Quentin Baker",
+    "balance": 310.50,
+    "points_balance": 5100,
+    "credit_limit": 3400,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1018": {
+    "account_number": "CC1018",
+    "account_holder": "Rachel Harris",
+    "balance": 880.00,
+    "points_balance": 9900,
+    "credit_limit": 4600,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1019": {
+    "account_number": "CC1019",
+    "account_holder": "Samuel Lewis",
+    "balance": 540.80,
+    "points_balance": 6700,
+    "credit_limit": 3800,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1020": {
+    "account_number": "CC1020",
+    "account_holder": "Tina Clark",
+    "balance": 305.25,
+    "points_balance": 5600,
+    "credit_limit": 3100,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  },
+  "CC1021": {
+    "account_number": "CC1021",
+    "account_holder": "Ulysses Reed",
+    "balance": 710.40,
+    "points_balance": 7500,
+    "credit_limit": 4000,
+    "redemptions": [],
+    "payments": [],
+    "points_disputes": []
+  }
+}

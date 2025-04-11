@@ -1,0 +1,416 @@
+{
+  "L1001": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-01"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-04-02"
+    }
+  ],
+  "L1002": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-02"
+    },
+    {
+      "action": "Meeting scheduled",
+      "date": "2025-05-16"
+    }
+  ],
+  "L1003": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-03"
+    },
+    {
+      "action": "Initial call - not interested",
+      "date": "2025-04-04"
+    }
+  ],
+  "L1004": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-04"
+    },
+    {
+      "action": "Follow-up email sent",
+      "date": "2025-04-05"
+    }
+  ],
+  "L1005": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-05"
+    },
+    {
+      "action": "Call received - callback requested",
+      "date": "2025-04-06"
+    }
+  ],
+  "L1006": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-06"
+    },
+    {
+      "action": "Meeting scheduled",
+      "date": "2025-05-18"
+    }
+  ],
+  "L1007": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-07"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-04-08"
+    }
+  ],
+  "L1008": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-08"
+    },
+    {
+      "action": "Meeting scheduled",
+      "date": "2025-05-19"
+    }
+  ],
+  "L1009": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-09"
+    }
+  ],
+  "L1010": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-10"
+    },
+    {
+      "action": "Meeting scheduled",
+      "date": "2025-05-20"
+    }
+  ],
+  "L1011": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-11"
+    },
+    {
+      "action": "Call received - interested",
+      "date": "2025-04-12"
+    }
+  ],
+  "L1012": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-12"
+    },
+    {
+      "action": "Follow-up email sent",
+      "date": "2025-04-13"
+    }
+  ],
+  "L1013": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-13"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-04-14"
+    }
+  ],
+  "L1014": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-14"
+    }
+  ],
+  "L1015": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-15"
+    },
+    {
+      "action": "Follow-up action assigned",
+      "date": "2025-04-16"
+    }
+  ],
+  "L1016": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-16"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-04-17"
+    }
+  ],
+  "L1017": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-17"
+    },
+    {
+      "action": "Call received - not interested",
+      "date": "2025-04-18"
+    }
+  ],
+  "L1018": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-18"
+    },
+    {
+      "action": "Follow-up scheduled",
+      "date": "2025-04-19"
+    }
+  ],
+  "L1019": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-19"
+    }
+  ],
+  "L1020": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-20"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-04-21"
+    }
+  ],
+  "L1021": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-21"
+    }
+  ],
+  "L1022": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-22"
+    },
+    {
+      "action": "Follow-up email sent",
+      "date": "2025-04-23"
+    }
+  ],
+  "L1023": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-23"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-04-24"
+    }
+  ],
+  "L1024": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-24"
+    }
+  ],
+  "L1025": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-25"
+    },
+    {
+      "action": "Call received - callback requested",
+      "date": "2025-04-26"
+    }
+  ],
+  "L1026": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-26"
+    },
+    {
+      "action": "Follow-up email sent",
+      "date": "2025-04-27"
+    }
+  ],
+  "L1027": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-27"
+    },
+    {
+      "action": "Initial call - not interested",
+      "date": "2025-04-28"
+    }
+  ],
+  "L1028": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-28"
+    },
+    {
+      "action": "Meeting scheduled",
+      "date": "2025-05-23"
+    }
+  ],
+  "L1029": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-29"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-04-30"
+    }
+  ],
+  "L1030": [
+    {
+      "action": "Lead created",
+      "date": "2025-04-30"
+    },
+    {
+      "action": "Follow-up scheduled",
+      "date": "2025-05-01"
+    }
+  ],
+  "L1031": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-01"
+    },
+    {
+      "action": "Meeting scheduled",
+      "date": "2025-05-26"
+    }
+  ],
+  "L1032": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-02"
+    }
+  ],
+  "L1033": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-03"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-05-04"
+    }
+  ],
+  "L1034": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-04"
+    }
+  ],
+  "L1035": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-05"
+    },
+    {
+      "action": "Call received - interested",
+      "date": "2025-05-06"
+    }
+  ],
+  "L1036": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-06"
+    },
+    {
+      "action": "Follow-up scheduled",
+      "date": "2025-05-07"
+    }
+  ],
+  "L1037": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-07"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-05-08"
+    }
+  ],
+  "L1038": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-08"
+    },
+    {
+      "action": "Meeting scheduled",
+      "date": "2025-05-28"
+    }
+  ],
+  "L1039": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-09"
+    }
+  ],
+  "L1040": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-10"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-05-11"
+    }
+  ],
+  "L1041": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-11"
+    },
+    {
+      "action": "Call received - interested",
+      "date": "2025-05-12"
+    }
+  ],
+  "L1042": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-12"
+    },
+    {
+      "action": "Follow-up email sent",
+      "date": "2025-05-13"
+    }
+  ],
+  "L1043": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-13"
+    },
+    {
+      "action": "Initial call - interested",
+      "date": "2025-05-14"
+    }
+  ],
+  "L1044": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-14"
+    }
+  ],
+  "L1045": [
+    {
+      "action": "Lead created",
+      "date": "2025-05-15"
+    },
+    {
+      "action": "Follow-up scheduled",
+      "date": "2025-05-16"
+    }
+  ]
+}
