@@ -1,0 +1,317 @@
+{
+  "TXN1001": {
+    "transaction_id": "TXN1001",
+    "account_number": "CC1001",
+    "amount": 45.67,
+    "description": "Grocery store purchase",
+    "month": "2025-04"
+  },
+  "TXN1002": {
+    "transaction_id": "TXN1002",
+    "account_number": "CC1001",
+    "amount": 120.00,
+    "description": "Online subscription renewal",
+    "month": "2025-04"
+  },
+  "TXN1003": {
+    "transaction_id": "TXN1003",
+    "account_number": "CC1002",
+    "amount": 75.50,
+    "description": "Dining out",
+    "month": "2025-03"
+  },
+  "TXN1004": {
+    "transaction_id": "TXN1004",
+    "account_number": "CC1002",
+    "amount": 35.20,
+    "description": "Fuel purchase",
+    "month": "2025-04"
+  },
+  "TXN1005": {
+    "transaction_id": "TXN1005",
+    "account_number": "CC1003",
+    "amount": 89.99,
+    "description": "Electronics store",
+    "month": "2025-04"
+  },
+  "TXN1006": {
+    "transaction_id": "TXN1006",
+    "account_number": "CC1003",
+    "amount": 15.00,
+    "description": "Coffee shop",
+    "month": "2025-03"
+  },
+  "TXN1007": {
+    "transaction_id": "TXN1007",
+    "account_number": "CC1004",
+    "amount": 200.00,
+    "description": "Hotel booking",
+    "month": "2025-04"
+  },
+  "TXN1008": {
+    "transaction_id": "TXN1008",
+    "account_number": "CC1004",
+    "amount": 50.00,
+    "description": "Restaurant",
+    "month": "2025-04"
+  },
+  "TXN1009": {
+    "transaction_id": "TXN1009",
+    "account_number": "CC1005",
+    "amount": 65.00,
+    "description": "Bookstore purchase",
+    "month": "2025-03"
+  },
+  "TXN1010": {
+    "transaction_id": "TXN1010",
+    "account_number": "CC1005",
+    "amount": 30.25,
+    "description": "Pharmacy",
+    "month": "2025-04"
+  },
+  "TXN1011": {
+    "transaction_id": "TXN1011",
+    "account_number": "CC1006",
+    "amount": 150.00,
+    "description": "Clothing store",
+    "month": "2025-04"
+  },
+  "TXN1012": {
+    "transaction_id": "TXN1012",
+    "account_number": "CC1006",
+    "amount": 20.00,
+    "description": "Streaming service",
+    "month": "2025-03"
+  },
+  "TXN1013": {
+    "transaction_id": "TXN1013",
+    "account_number": "CC1007",
+    "amount": 95.50,
+    "description": "Gas station",
+    "month": "2025-04"
+  },
+  "TXN1014": {
+    "transaction_id": "TXN1014",
+    "account_number": "CC1007",
+    "amount": 40.00,
+    "description": "Fast food purchase",
+    "month": "2025-03"
+  },
+  "TXN1015": {
+    "transaction_id": "TXN1015",
+    "account_number": "CC1008",
+    "amount": 12.99,
+    "description": "Coffee and pastry",
+    "month": "2025-04"
+  },
+  "TXN1016": {
+    "transaction_id": "TXN1016",
+    "account_number": "CC1009",
+    "amount": 55.00,
+    "description": "Supermarket shopping",
+    "month": "2025-05"
+  },
+  "TXN1017": {
+    "transaction_id": "TXN1017",
+    "account_number": "CC1009",
+    "amount": 75.50,
+    "description": "Restaurant dinner",
+    "month": "2025-05"
+  },
+  "TXN1018": {
+    "transaction_id": "TXN1018",
+    "account_number": "CC1010",
+    "amount": 200.00,
+    "description": "Flight booking",
+    "month": "2025-04"
+  },
+  "TXN1019": {
+    "transaction_id": "TXN1019",
+    "account_number": "CC1010",
+    "amount": 18.50,
+    "description": "Coffee",
+    "month": "2025-04"
+  },
+  "TXN1020": {
+    "transaction_id": "TXN1020",
+    "account_number": "CC1011",
+    "amount": 42.75,
+    "description": "Gas refill",
+    "month": "2025-03"
+  },
+  "TXN1021": {
+    "transaction_id": "TXN1021",
+    "account_number": "CC1011",
+    "amount": 80.00,
+    "description": "Movie tickets",
+    "month": "2025-04"
+  },
+  "TXN1022": {
+    "transaction_id": "TXN1022",
+    "account_number": "CC1012",
+    "amount": 150.00,
+    "description": "Spa treatment",
+    "month": "2025-04"
+  },
+  "TXN1023": {
+    "transaction_id": "TXN1023",
+    "account_number": "CC1012",
+    "amount": 22.50,
+    "description": "Ice cream",
+    "month": "2025-03"
+  },
+  "TXN1024": {
+    "transaction_id": "TXN1024",
+    "account_number": "CC1013",
+    "amount": 90.00,
+    "description": "Electronics purchase",
+    "month": "2025-05"
+  },
+  "TXN1025": {
+    "transaction_id": "TXN1025",
+    "account_number": "CC1013",
+    "amount": 14.99,
+    "description": "Book purchase",
+    "month": "2025-04"
+  },
+  "TXN1026": {
+    "transaction_id": "TXN1026",
+    "account_number": "CC1014",
+    "amount": 60.00,
+    "description": "Grocery shopping",
+    "month": "2025-04"
+  },
+  "TXN1027": {
+    "transaction_id": "TXN1027",
+    "account_number": "CC1014",
+    "amount": 35.00,
+    "description": "Taxi fare",
+    "month": "2025-03"
+  },
+  "TXN1028": {
+    "transaction_id": "TXN1028",
+    "account_number": "CC1015",
+    "amount": 105.00,
+    "description": "Restaurant bill",
+    "month": "2025-05"
+  },
+  "TXN1029": {
+    "transaction_id": "TXN1029",
+    "account_number": "CC1015",
+    "amount": 12.00,
+    "description": "Coffee",
+    "month": "2025-04"
+  },
+  "TXN1030": {
+    "transaction_id": "TXN1030",
+    "account_number": "CC1016",
+    "amount": 78.50,
+    "description": "Online shopping",
+    "month": "2025-04"
+  },
+  "TXN1031": {
+    "transaction_id": "TXN1031",
+    "account_number": "CC1016",
+    "amount": 19.99,
+    "description": "Streaming subscription",
+    "month": "2025-03"
+  },
+  "TXN1032": {
+    "transaction_id": "TXN1032",
+    "account_number": "CC1017",
+    "amount": 130.00,
+    "description": "Furniture purchase",
+    "month": "2025-04"
+  },
+  "TXN1033": {
+    "transaction_id": "TXN1033",
+    "account_number": "CC1017",
+    "amount": 25.00,
+    "description": "Lunch",
+    "month": "2025-03"
+  },
+  "TXN1034": {
+    "transaction_id": "TXN1034",
+    "account_number": "CC1018",
+    "amount": 55.50,
+    "description": "Bookstore",
+    "month": "2025-05"
+  },
+  "TXN1035": {
+    "transaction_id": "TXN1035",
+    "account_number": "CC1018",
+    "amount": 44.00,
+    "description": "Online course",
+    "month": "2025-04"
+  },
+  "TXN1036": {
+    "transaction_id": "TXN1036",
+    "account_number": "CC1019",
+    "amount": 100.00,
+    "description": "Concert tickets",
+    "month": "2025-04"
+  },
+  "TXN1037": {
+    "transaction_id": "TXN1037",
+    "account_number": "CC1019",
+    "amount": 32.50,
+    "description": "Snack purchase",
+    "month": "2025-03"
+  },
+  "TXN1038": {
+    "transaction_id": "TXN1038",
+    "account_number": "CC1020",
+    "amount": 200.00,
+    "description": "Hotel reservation",
+    "month": "2025-05"
+  },
+  "TXN1039": {
+    "transaction_id": "TXN1039",
+    "account_number": "CC1020",
+    "amount": 18.75,
+    "description": "Breakfast",
+    "month": "2025-04"
+  },
+  "TXN1040": {
+    "transaction_id": "TXN1040",
+    "account_number": "CC1021",
+    "amount": 67.80,
+    "description": "Grocery store",
+    "month": "2025-04"
+  },
+  "TXN1041": {
+    "transaction_id": "TXN1041",
+    "account_number": "CC1021",
+    "amount": 15.20,
+    "description": "Bus ticket",
+    "month": "2025-03"
+  },
+  "TXN1042": {
+    "transaction_id": "TXN1042",
+    "account_number": "CC1001",
+    "amount": 89.99,
+    "description": "Clothing store",
+    "month": "2025-05"
+  },
+  "TXN1043": {
+    "transaction_id": "TXN1043",
+    "account_number": "CC1002",
+    "amount": 34.50,
+    "description": "Pet store",
+    "month": "2025-05"
+  },
+  "TXN1044": {
+    "transaction_id": "TXN1044",
+    "account_number": "CC1003",
+    "amount": 55.00,
+    "description": "Hardware store",
+    "month": "2025-05"
+  },
+  "TXN1045": {
+    "transaction_id": "TXN1045",
+    "account_number": "CC1004",
+    "amount": 42.00,
+    "description": "Coffee shop purchase",
+    "month": "2025-05"
+  }
+}

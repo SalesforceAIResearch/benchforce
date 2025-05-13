@@ -1,0 +1,212 @@
+[
+  {
+    "doctor_id": "D001",
+    "name": "Dr. Emily Carter",
+    "specialty": "Dermatology",
+    "department": "Dermatology",
+    "clinic": "Eastside Medical Center"
+  },
+  {
+    "doctor_id": "D002",
+    "name": "Dr. Michael Thompson",
+    "specialty": "Pediatrics",
+    "department": "Pediatrics",
+    "clinic": "Family Health Center"
+  },
+  {
+    "doctor_id": "D003",
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Cardiology",
+    "department": "Cardiology",
+    "clinic": "Central Health Clinic"
+  },
+  {
+    "doctor_id": "D004",
+    "name": "Dr. David Lee",
+    "specialty": "General Medicine",
+    "department": "General Medicine",
+    "clinic": "Central Health Clinic"
+  },
+  {
+    "doctor_id": "D005",
+    "name": "Dr. Karen Smith",
+    "specialty": "Orthopedics",
+    "department": "Orthopedics",
+    "clinic": "North Health Clinic"
+  },
+  {
+    "doctor_id": "D006",
+    "name": "Dr. James Wilson",
+    "specialty": "Gastroenterology",
+    "department": "Gastroenterology",
+    "clinic": "Downtown Clinic"
+  },
+  {
+    "doctor_id": "D007",
+    "name": "Dr. Laura Martinez",
+    "specialty": "Neurology",
+    "department": "Neurology",
+    "clinic": "Westside Medical Center"
+  },
+  {
+    "doctor_id": "D008",
+    "name": "Dr. Robert Brown",
+    "specialty": "Ophthalmology",
+    "department": "Ophthalmology",
+    "clinic": "Central Health Clinic"
+  },
+  {
+    "doctor_id": "D009",
+    "name": "Dr. Linda Davis",
+    "specialty": "Dentistry",
+    "department": "Dentistry",
+    "clinic": "Smile Dental Center"
+  },
+  {
+    "doctor_id": "D010",
+    "name": "Dr. Steven Miller",
+    "specialty": "ENT",
+    "department": "ENT",
+    "clinic": "North Health Clinic"
+  },
+  {
+    "doctor_id": "D011",
+    "name": "Dr. Olivia Perez",
+    "specialty": "Endocrinology",
+    "department": "Endocrinology",
+    "clinic": "Sunrise Health Center"
+  },
+  {
+    "doctor_id": "D012",
+    "name": "Dr. Henry Roberts",
+    "specialty": "Rheumatology",
+    "department": "Rheumatology",
+    "clinic": "Westside Medical Center"
+  },
+  {
+    "doctor_id": "D013",
+    "name": "Dr. Emma Walker",
+    "specialty": "Oncology",
+    "department": "Oncology",
+    "clinic": "Central Health Clinic"
+  },
+  {
+    "doctor_id": "D014",
+    "name": "Dr. Liam Hall",
+    "specialty": "Urology",
+    "department": "Urology",
+    "clinic": "Downtown Medical Clinic"
+  },
+  {
+    "doctor_id": "D015",
+    "name": "Dr. Sophia Young",
+    "specialty": "Gynecology",
+    "department": "Gynecology",
+    "clinic": "Family Health Center"
+  },
+  {
+    "doctor_id": "D016",
+    "name": "Dr. Mason Hernandez",
+    "specialty": "Pulmonology",
+    "department": "Pulmonology",
+    "clinic": "Eastside Health Center"
+  },
+  {
+    "doctor_id": "D017",
+    "name": "Dr. Isabella King",
+    "specialty": "Psychiatry",
+    "department": "Psychiatry",
+    "clinic": "Central Mental Health Clinic"
+  },
+  {
+    "doctor_id": "D018",
+    "name": "Dr. Logan Wright",
+    "specialty": "Nephrology",
+    "department": "Nephrology",
+    "clinic": "North Health Clinic"
+  },
+  {
+    "doctor_id": "D019",
+    "name": "Dr. Mia Lopez",
+    "specialty": "Allergy & Immunology",
+    "department": "Immunology",
+    "clinic": "Sunrise Health Center"
+  },
+  {
+    "doctor_id": "D020",
+    "name": "Dr. Ethan Hill",
+    "specialty": "Infectious Diseases",
+    "department": "Infectious Diseases",
+    "clinic": "Downtown Clinic"
+  },
+  {
+    "doctor_id": "D021",
+    "name": "Dr. Ava Scott",
+    "specialty": "Hematology",
+    "department": "Hematology",
+    "clinic": "Central Health Clinic"
+  },
+  {
+    "doctor_id": "D022",
+    "name": "Dr. Noah Green",
+    "specialty": "Surgery",
+    "department": "Surgery",
+    "clinic": "General Hospital"
+  },
+  {
+    "doctor_id": "D023",
+    "name": "Dr. Isabella Adams",
+    "specialty": "Plastic Surgery",
+    "department": "Surgery",
+    "clinic": "Downtown Clinic"
+  },
+  {
+    "doctor_id": "D024",
+    "name": "Dr. Lucas Baker",
+    "specialty": "Radiology",
+    "department": "Radiology",
+    "clinic": "North Health Clinic"
+  },
+  {
+    "doctor_id": "D025",
+    "name": "Dr. Amelia Nelson",
+    "specialty": "Emergency Medicine",
+    "department": "Emergency",
+    "clinic": "City Hospital"
+  },
+  {
+    "doctor_id": "D026",
+    "name": "Dr. Oliver Carter",
+    "specialty": "Sports Medicine",
+    "department": "Orthopedics",
+    "clinic": "Sports Health Clinic"
+  },
+  {
+    "doctor_id": "D027",
+    "name": "Dr. Evelyn Mitchell",
+    "specialty": "Family Medicine",
+    "department": "Family Medicine",
+    "clinic": "Community Health Center"
+  },
+  {
+    "doctor_id": "D028",
+    "name": "Dr. Elijah Perez",
+    "specialty": "Gastroenterology",
+    "department": "Gastroenterology",
+    "clinic": "Downtown Clinic"
+  },
+  {
+    "doctor_id": "D029",
+    "name": "Dr. Harper Rivera",
+    "specialty": "Dermatology",
+    "department": "Dermatology",
+    "clinic": "Eastside Medical Center"
+  },
+  {
+    "doctor_id": "D030",
+    "name": "Dr. Sebastian Morgan",
+    "specialty": "Cardiology",
+    "department": "Cardiology",
+    "clinic": "Central Health Clinic"
+  }
+]

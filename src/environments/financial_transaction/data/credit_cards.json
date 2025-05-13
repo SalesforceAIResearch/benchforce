@@ -1,0 +1,107 @@
+[
+  {
+    "credit_card_id": "CARD1001",
+    "account_number": "CC1001",
+    "card_type": "Chase Sapphire Preferred",
+    "issuing_bank": "Chase",
+    "issued_date": "2023-01-15"
+  },
+  {
+    "credit_card_id": "CARD1002",
+    "account_number": "CC1002",
+    "card_type": "Chase Freedom Unlimited",
+    "issuing_bank": "Chase",
+    "issued_date": "2022-06-10"
+  },
+  {
+    "credit_card_id": "CARD1003",
+    "account_number": "CC1003",
+    "card_type": "Chase Slate Edge",
+    "issuing_bank": "Chase",
+    "issued_date": "2021-09-05"
+  },
+  {
+    "credit_card_id": "CARD1004",
+    "account_number": "CC1004",
+    "card_type": "Chase Sapphire Reserve",
+    "issuing_bank": "Chase",
+    "issued_date": "2023-03-20"
+  },
+  {
+    "credit_card_id": "CARD1005",
+    "account_number": "CC1005",
+    "card_type": "Chase Freedom Flex",
+    "issuing_bank": "Chase",
+    "issued_date": "2022-11-30"
+  },
+  {
+    "credit_card_id": "CARD1006",
+    "account_number": "CC1006",
+    "card_type": "Chase Ink Business Preferred",
+    "issuing_bank": "Chase",
+    "issued_date": "2023-05-10"
+  },
+  {
+    "credit_card_id": "CARD1007",
+    "account_number": "CC1007",
+    "card_type": "Chase Freedom",
+    "issuing_bank": "Chase",
+    "issued_date": "2022-12-01"
+  },
+  {
+    "credit_card_id": "CARD1008",
+    "account_number": "CC1008",
+    "card_type": "Chase Sapphire Reserve",
+    "issuing_bank": "Chase",
+    "issued_date": "2023-02-20"
+  },
+  {
+    "credit_card_id": "CARD1009",
+    "account_number": "CC1009",
+    "card_type": "Chase Slate",
+    "issuing_bank": "Chase",
+    "issued_date": "2021-08-15"
+  },
+  {
+    "credit_card_id": "CARD1010",
+    "account_number": "CC1010",
+    "card_type": "Chase Freedom Flex",
+    "issuing_bank": "Chase",
+    "issued_date": "2022-07-30"
+  },
+  {
+    "credit_card_id": "CARD1011",
+    "account_number": "CC1011",
+    "card_type": "Chase Sapphire Preferred",
+    "issuing_bank": "Chase",
+    "issued_date": "2023-06-01"
+  },
+  {
+    "credit_card_id": "CARD1012",
+    "account_number": "CC1012",
+    "card_type": "Chase Sapphire Reserve",
+    "issuing_bank": "Chase",
+    "issued_date": "2023-03-05"
+  },
+  {
+    "credit_card_id": "CARD1013",
+    "account_number": "CC1013",
+    "card_type": "Chase Freedom Unlimited",
+    "issuing_bank": "Chase",
+    "issued_date": "2022-10-10"
+  },
+  {
+    "credit_card_id": "CARD1014",
+    "account_number": "CC1014",
+    "card_type": "Chase Slate Edge",
+    "issuing_bank": "Chase",
+    "issued_date": "2021-11-11"
+  },
+  {
+    "credit_card_id": "CARD1015",
+    "account_number": "CC1015",
+    "card_type": "Chase Ink Business Cash",
+    "issuing_bank": "Chase",
+    "issued_date": "2023-04-22"
+  }
+]

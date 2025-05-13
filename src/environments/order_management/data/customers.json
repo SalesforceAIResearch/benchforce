@@ -1,0 +1,152 @@
+[
+  {
+    "customer_id": "C1001",
+    "name": "Alice Johnson",
+    "email": "alice.johnson@gap.com",
+    "phone": "555-1111"
+  },
+  {
+    "customer_id": "C1002",
+    "name": "Bob Smith",
+    "email": "bob.smith@gap.com",
+    "phone": "555-2222"
+  },
+  {
+    "customer_id": "C1003",
+    "name": "Charlie Williams",
+    "email": "charlie.williams@gap.com",
+    "phone": "555-3333"
+  },
+  {
+    "customer_id": "C1004",
+    "name": "Diana Brown",
+    "email": "diana.brown@gap.com",
+    "phone": "555-4444"
+  },
+  {
+    "customer_id": "C1005",
+    "name": "Edward Davis",
+    "email": "edward.davis@gap.com",
+    "phone": "555-5555"
+  },
+  {
+    "customer_id": "C1006",
+    "name": "Fiona Garcia",
+    "email": "fiona.garcia@gap.com",
+    "phone": "555-6666"
+  },
+  {
+    "customer_id": "C1007",
+    "name": "George Martinez",
+    "email": "george.martinez@gap.com",
+    "phone": "555-7777"
+  },
+  {
+    "customer_id": "C1008",
+    "name": "Hannah Rodriguez",
+    "email": "hannah.rodriguez@gap.com",
+    "phone": "555-8888"
+  },
+  {
+    "customer_id": "C1009",
+    "name": "Ian Lee",
+    "email": "ian.lee@gap.com",
+    "phone": "555-9999"
+  },
+  {
+    "customer_id": "C1010",
+    "name": "Julia Kim",
+    "email": "julia.kim@gap.com",
+    "phone": "555-0000"
+  },
+  {
+    "customer_id": "C1011",
+    "name": "Kevin Moore",
+    "email": "kevin.moore@gap.com",
+    "phone": "555-1010"
+  },
+  {
+    "customer_id": "C1012",
+    "name": "Laura Wilson",
+    "email": "laura.wilson@gap.com",
+    "phone": "555-2020"
+  },
+  {
+    "customer_id": "C1013",
+    "name": "Michael Thompson",
+    "email": "michael.thompson@gap.com",
+    "phone": "555-3030"
+  },
+  {
+    "customer_id": "C1014",
+    "name": "Nina Anderson",
+    "email": "nina.anderson@gap.com",
+    "phone": "555-4040"
+  },
+  {
+    "customer_id": "C1015",
+    "name": "Oliver Garcia",
+    "email": "oliver.garcia@gap.com",
+    "phone": "555-5050"
+  },
+  {
+    "customer_id": "C1016",
+    "name": "Pamela Scott",
+    "email": "pamela.scott@gap.com",
+    "phone": "555-6060"
+  },
+  {
+    "customer_id": "C1017",
+    "name": "Quentin Brown",
+    "email": "quentin.brown@gap.com",
+    "phone": "555-7070"
+  },
+  {
+    "customer_id": "C1018",
+    "name": "Rachel Adams",
+    "email": "rachel.adams@gap.com",
+    "phone": "555-8080"
+  },
+  {
+    "customer_id": "C1019",
+    "name": "Samuel Clark",
+    "email": "samuel.clark@gap.com",
+    "phone": "555-9090"
+  },
+  {
+    "customer_id": "C1020",
+    "name": "Tina Lewis",
+    "email": "tina.lewis@gap.com",
+    "phone": "555-0102"
+  },
+  {
+    "customer_id": "C1021",
+    "name": "Ulysses Martinez",
+    "email": "ulysses.martinez@gap.com",
+    "phone": "555-1112"
+  },
+  {
+    "customer_id": "C1022",
+    "name": "Vanessa Perez",
+    "email": "vanessa.perez@gap.com",
+    "phone": "555-1212"
+  },
+  {
+    "customer_id": "C1023",
+    "name": "William Rodriguez",
+    "email": "william.rodriguez@gap.com",
+    "phone": "555-1313"
+  },
+  {
+    "customer_id": "C1024",
+    "name": "Xavier Johnson",
+    "email": "xavier.johnson@gap.com",
+    "phone": "555-1414"
+  },
+  {
+    "customer_id": "C1025",
+    "name": "Yvonne King",
+    "email": "yvonne.king@gap.com",
+    "phone": "555-1515"
+  }
+]

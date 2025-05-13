@@ -1,0 +1,39 @@
+NOTICE  
+This project includes software developed by third parties. The following packages are used, along with their respective licenses:
+
+MIT License
+------------
+The following packages are licensed under the MIT License:
+- anthropic 0.49.0
+- deepgram-sdk 3.10.1
+- pydub 0.25.1
+- pyyaml 6.0.2
+
+MIT / MPL-2.0 License (dual-licensed components)
+-------------------------------------------------
+The following package includes components licensed under both the MIT License and the Mozilla Public License 2.0 (MPL-2.0):
+- tqdm 4.67.1
+
+BSD 3-Clause License
+---------------------
+The following packages are licensed under the BSD 3-Clause License:
+- numpy 2.2.4
+- pandas 2.2.3
+- python-dotenv 1.1.0
+- scipy 1.15.2
+- websockets 15.0.1
+
+Apache License 2.0
+-------------------
+The following packages are licensed under the Apache License, Version 2.0:
+- google-genai 1.9.0
+- openai 1.65.4
+- together 1.4.1
+
+Unknown License
+----------------
+- cartesia 1.4.0 – License information not provided. Please verify before use.
+
+Note:
+Each third-party package listed above may include its own copyright and license information.
+It is your responsibility to ensure compliance with the terms of each respective license.

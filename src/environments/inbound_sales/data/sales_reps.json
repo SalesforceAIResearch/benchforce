@@ -1,0 +1,77 @@
+[
+  {
+    "rep_id": "R001",
+    "name": "Oliver King",
+    "email": "oliver.king@salesexample.com"
+  },
+  {
+    "rep_id": "R002",
+    "name": "Emma Scott",
+    "email": "emma.scott@salesexample.com"
+  },
+  {
+    "rep_id": "R003",
+    "name": "Lucas Turner",
+    "email": "lucas.turner@salesexample.com"
+  },
+  {
+    "rep_id": "R004",
+    "name": "Mia Adams",
+    "email": "mia.adams@salesexample.com"
+  },
+  {
+    "rep_id": "R005",
+    "name": "Ethan Parker",
+    "email": "ethan.parker@salesexample.com"
+  },
+  {
+    "rep_id": "R006",
+    "name": "Ava Bennett",
+    "email": "ava.bennett@salesexample.com"
+  },
+  {
+    "rep_id": "R007",
+    "name": "Jackson Murphy",
+    "email": "jackson.murphy@salesexample.com"
+  },
+  {
+    "rep_id": "R008",
+    "name": "Isabella Brooks",
+    "email": "isabella.brooks@salesexample.com"
+  },
+  {
+    "rep_id": "R009",
+    "name": "Mason Howard",
+    "email": "mason.howard@salesexample.com"
+  },
+  {
+    "rep_id": "R010",
+    "name": "Sophia Carter",
+    "email": "sophia.carter@salesexample.com"
+  },
+  {
+    "rep_id": "R011",
+    "name": "Liam Rivera",
+    "email": "liam.rivera@salesexample.com"
+  },
+  {
+    "rep_id": "R012",
+    "name": "Noah Griffin",
+    "email": "noah.griffin@salesexample.com"
+  },
+  {
+    "rep_id": "R013",
+    "name": "Charlotte Bell",
+    "email": "charlotte.bell@salesexample.com"
+  },
+  {
+    "rep_id": "R014",
+    "name": "Benjamin Ward",
+    "email": "benjamin.ward@salesexample.com"
+  },
+  {
+    "rep_id": "R015",
+    "name": "Harper Ross",
+    "email": "harper.ross@salesexample.com"
+  }
+]
