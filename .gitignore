@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv
+.env
+*.log
+history/*
+.DS_Store
+/src/environments/**/updates/
+benchforce.egg-info
+build
+sessions/*
+results/*
+
+# Ignore all files in environment_csv_files except judge_example.csv
+environment_csv_files/*
+!environment_csv_files/judge_example.csv
+config.yaml
+dump.rdb

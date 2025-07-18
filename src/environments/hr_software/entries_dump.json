@@ -1,0 +1,592 @@
+[
+  {
+    "id": "entry_0",
+    "instructions": "You are a dummy, test persona. You just want to know what 88 * 123 is. You don't know your org id.",
+    "actions": [
+      {
+        "name": "calculate",
+        "arguments": {
+          "expression": "88 * 123"
+        }
+      }
+    ],
+    "outputs": [
+      "10824"
+    ]
+  },
+  {
+    "id": "entry_1",
+    "instructions": "You are an operations manager at Energy-Innovative Mobile. Your name is {'first_name': 'James', 'last_name': 'Davis'} and your email is james.davis@energyinnovativemobile.cloud. First get your user id, then verify if there was a downtime incident on December 28th, 2024. You don't know your org id.",
+    "actions": [
+      {
+        "name": "verify_downtime",
+        "arguments": {
+          "subscription_id": "SUB-000004",
+          "incident_timestamp": "2024-12-28T00:00:00Z"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_2",
+    "instructions": "You are an IT administrator. Your name is {'first_name': 'Emma', 'last_name': 'Brown'} and your email is emma.brown@sustainabledynamicenterprises.cloud. You dont know your org id. You want to terminate the accounts for all users in your organization's Sustainability team.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000002"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_3",
+    "instructions": "You are an IT manager conducting a security audit. Check for users with 2FA violations (active users without 2FA enabled). Your email is fatima.anderson@industrialdynamicadvanced.org. Your name is {'first_name': 'Fatima', 'last_name': 'Anderson'}. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000003"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_4",
+    "instructions": "As an IT admin, make sure all developers, engineers, and researchers have permission to access the api, deploy code and export data. Your email is ivan.ito@energyinnovativemobile.net. Your name is {'first_name': 'Ivan', 'last_name': 'Ito'}. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000004"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-001877",
+          "org_id": "ORG-000004",
+          "new_permissions": [
+            "access_api",
+            "deploy_code",
+            "export_data"
+          ]
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-001876",
+          "org_id": "ORG-000004",
+          "new_permissions": [
+            "access_api",
+            "deploy_code",
+            "export_data"
+          ]
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_5",
+    "instructions": "As a billing manager, find which dept has the most active users. You don't know your org id. Your email is yara.silva@nextgenadvancedpremier.ai. Your name is {'first_name': 'Yara', 'last_name': 'Silva'}.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000001"
+        }
+      }
+    ],
+    "outputs": [
+      "Research"
+    ]
+  },
+  {
+    "id": "entry_7",
+    "instructions": "You are {'first_name': 'Lei', 'last_name': 'Jackson'}, IT Administrator at Next-Gen Advanced & Premier (lei.jackson@nextgenadvancedpremier.com). You don't know your org id. You want to suspend all users that are either in Engineering or Data Science departments OR have an analyst or engineer role THAT ALSO DO NOT HAVE AT LEAST 1 SKILL.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000001"
+        }
+      },
+      {
+        "name": "modify_user_status",
+        "arguments": {
+          "user_id": "USR-000002",
+          "new_status": "suspended",
+          "org_id": "ORG-000001"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_8",
+    "instructions": "How many employees without managers assigned? Your email is mei.lee@nextgenadvancedpremier.ai. Your name is {'first_name': 'Mei', 'last_name': 'Lee'}. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000001"
+        }
+      }
+    ],
+    "outputs": [
+      "10"
+    ]
+  },
+  {
+    "id": "entry_9",
+    "instructions": "Identify all users with access to manage security and verify that they posses the security skill. You don't know your org id. If they do not have the security skill, revoke their access to manage security. Your email is fatima.wilson@smartplatforms.net. Your name is {'first_name': 'Fatima', 'last_name': 'Wilson'}.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000008"
+        }
+      },
+      {
+        "name": "get_user_details",
+        "arguments": {
+          "user_id": "USR-003682"
+        }
+      },
+      {
+        "name": "get_user_details",
+        "arguments": {
+          "user_id": "USR-003683"
+        }
+      },
+      {
+        "name": "get_user_details",
+        "arguments": {
+          "user_id": "USR-003684"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-003682",
+          "org_id": "ORG-000008",
+          "new_permissions": [
+            "admin",
+            "manage_users",
+            "manage_billing"
+          ]
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-003683",
+          "org_id": "ORG-000008",
+          "new_permissions": [
+            "admin",
+            "manage_users",
+            "manage_billing"
+          ]
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-003684",
+          "org_id": "ORG-000008",
+          "new_permissions": [
+            "admin",
+            "manage_users",
+            "manage_billing"
+          ]
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_10",
+    "instructions": "As {'first_name': 'Sofia', 'last_name': 'Ahmed'}, Security Officer at Software-Business Group (sofia.ahmed@softwarebusinessgroup.com), I need to check if any users have excessive permissions for their roles and make sure that they have manage_users, manage_billing, manage_security permissions. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000009"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-003788",
+          "org_id": "ORG-000009",
+          "new_permissions": [
+            "manage_users",
+            "manage_billing",
+            "manage_security"
+          ]        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-003789",
+          "org_id": "ORG-000009",
+          "new_permissions": [
+            "manage_users",
+            "manage_billing",
+            "manage_security"
+          ]        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_11",
+    "instructions": "As {'first_name': 'Fatima', 'last_name': 'Rossi'}, Operations Manager at Software-Business Group (fatima.rossi@softwarebusinessgroup.co), I need to check our subscription usage metrics and upgrade our tier if we're using more than 90% of our seats. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_subscription_details",
+        "arguments": {
+          "subscription_id": "SUB-000009"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_12",
+    "instructions": "As {'first_name': 'Yara', 'last_name': 'Johnson'}, IT Admin at Software-Business Group (yara.johnson@softwarebusinessgroup.org), I need to ensure all managers have the 'manage_team', 'view_reports', 'approve_requests', 'manage_documents', 'deploy_code', 'access_api' permissions. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000009"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-003789",
+          "new_permissions": [
+            "manage_team",
+            "view_reports",
+            "approve_requests",
+            "manage_documents",
+            "deploy_code",
+            "access_api"
+          ],
+          "org_id": "ORG-000009"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_13",
+    "instructions": "As {'first_name': 'Ivan', 'last_name': 'Kovacs'}, Compliance Officer at Next-Gen Advanced & Premier (ivan.kovacs@nextgenadvancedpremier.net), I need to suspend all users who haven't logged in for 60 days. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000001"
+        }
+      },
+      {
+        "name": "modify_user_status",
+        "arguments": {
+          "user_id": "USR-000001",
+          "new_status": "suspended",
+          "org_id": "ORG-000001"
+        }
+      },
+      {
+        "name": "modify_user_status",
+        "arguments": {
+          "user_id": "USR-000002",
+          "new_status": "suspended",
+          "org_id": "ORG-000001"
+        }
+      },
+      {
+        "name": "modify_user_status",
+        "arguments": {
+          "user_id": "USR-000003",
+          "new_status": "suspended",
+          "org_id": "ORG-000001"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_14",
+    "instructions": "As {'first_name': 'Ethan', 'last_name': 'Khan'}, Billing Manager at Next-Gen Advanced & Premier (ethan.khan@nextgenadvancedpremier.net), I need to know how many additional seats we need to purchase to qualify for the next discount tier. You don't know organization ID or subscription ID",
+    "actions": [
+      {
+        "name": "get_subscription_details",
+        "arguments": {
+          "subscription_id": "SUB-000001"
+        }
+      }
+    ],
+    "outputs": [
+      "119"
+    ]
+  },
+  {
+    "id": "entry_15",
+    "instructions": "As {'first_name': 'Daiki', 'last_name': 'Jackson'}, Operations Manager at Software-Business Group (daiki.jackson@softwarebusinessgroup.com), I need to verify which subscription modules are enabled and ensure we have the right tier for our usage. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_subscription_details",
+        "arguments": {
+          "subscription_id": "SUB-000009"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_16",
+    "instructions": "As {'first_name': 'Harper', 'last_name': 'Patel'}, Security Officer at Cloud Applications Medical (harper.patel@cloudapplicationsmedical.ai), I need to verify that all users with access to sensitive operations (manage_security, manage_billing, or manage_users) have 2FA enabled. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000011"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_17",
+    "instructions": "As {'first_name': 'Harper', 'last_name': 'Santos'}, IT Admin at Cloud Applications Medical (harper.santos@cloudapplicationsmedical.io), I need to check if we have enough active users to justify our current subscription tier and downgrade if we're significantly under-utilizing it. You don't know your org id or subscription id.",
+    "actions": [
+      {
+        "name": "get_subscription_details",
+        "arguments": {
+          "subscription_id": "SUB-000011"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_18",
+    "instructions": "As {'first_name': 'Yara', 'last_name': 'Muller'}, Compliance Officer at Next-Gen Advanced & Premier (yara.muller@nextgenadvancedpremier.co), I need to verify that all users with deploy_code permission also have the required security skill. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000001"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_19",
+    "instructions": "As {'first_name': 'James', 'last_name': 'Santos'}, Security Officer at Agile-Corporation Financial (james.santos@agilecorporationfinancial.tech), You need to update users status to active. You don't know your org id.",
+    "actions": [
+      {
+        "name": "modify_user_status",
+        "arguments": {
+          "user_id": "USR-00101",
+          "new_status": "active",
+          "org_id": "ORG-000013"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_20",
+    "instructions": "As {'first_name': 'Mei', 'last_name': 'Lee'}, Billing Manager at Next-Gen Advanced & Premier (mei.lee@nextgenadvancedpremier.org), I need to check if we qualify for a volume discount based on our active user count. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_subscription_details",
+        "arguments": {
+          "subscription_id": "SUB-000001"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_21",
+    "instructions": "As {'first_name': 'Juan', 'last_name': 'Rossi'}, Compliance Officer at Next-Gen Advanced & Premier (juan.rossi@nextgenadvancedpremier.org), I need to ensure all users with access to sensitive data (export_data permission) have the required data_analysis skill. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000001"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_22",
+    "instructions": "As {'first_name': 'Olivia', 'last_name': 'Wilson'}, Operations Manager at Software-Business Group (olivia.wilson@softwarebusinessgroup.ai), I need to verify that each department has at least one manager with the required leadership skill. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000009"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_23",
+    "instructions": "As {'first_name': 'Yusuf', 'last_name': 'Khan'}, Security Officer at Solutions Scientific Ventures (yusuf.khan@solutionsscientificventures.co), I need to verify that users with multiple roles don't have conflicting permissions and set permissions to 'admin', 'manage_users', 'manage_billing', 'manage_security', 'manage_team', 'view_reports'. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000016"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-007175",
+          "org_id": "ORG-000016",
+          "new_permissions": [
+            "admin",
+            "manage_users",
+            "manage_billing",
+            "manage_security",
+            "manage_team",
+            "view_reports"
+          ]
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_24",
+    "instructions": "As {'first_name': 'Emma', 'last_name': 'Brown'}, IT Admin at Sustainable Dynamic & Enterprises (emma.brown@sustainabledynamicenterprises.cloud), I need to ensure all users with the developer role have both access_api and deploy_code permissions. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000002"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_25",
+    "instructions": "As {'first_name': 'Daiki', 'last_name': 'Brown'}, Security Officer at Research-Optimal Next-Gen (daiki.brown@researchoptimalnextgen.net), I need to verify that users with multiple roles don't have conflicting permissions and set permissions to 'manage_team', 'view_reports'. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000017"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-007360",
+          "org_id": "ORG-000017",
+          "new_permissions": [
+            "manage_team",
+            "view_reports"
+          ]
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_26",
+    "instructions": "As {'first_name': 'Ivan', 'last_name': 'Thomas'}, IT Admin at Research-Optimal Next-Gen (ivan.thomas@researchoptimalnextgen.io), I need to ensure all users with the developer role have both access_api and deploy_code permissions. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000017"
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_27",
+    "instructions": "As {'first_name': 'Emma', 'last_name': 'Kim'}, Compliance Officer at Sustainable Dynamic & Enterprises (emma.kim@sustainabledynamicenterprises.ai), I need to verify that all departments have at least two managers for redundancy. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000002"
+        }
+      },
+      {
+        "name": "transfer_to_human_agents",
+        "arguments": {
+          "reason": "Department IT has insufficient management redundancy (1 managers). Please review department structure."
+        }
+      }
+    ],
+    "outputs": []
+  },
+  {
+    "id": "entry_28",
+    "instructions": "As {'first_name': 'Lucas', 'last_name': 'Wilson'}, Security Officer at Commercial Financial & Networks (lucas.wilson@commercialfinancialnetworks.org), I need to ensure all users with manage_security permission have both security and compliance skills. You don't know your org id.",
+    "actions": [
+      {
+        "name": "get_all_users_in_org",
+        "arguments": {
+          "org_id": "ORG-000018"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-008397",
+          "new_permissions": [
+            "admin",
+            "manage_users",
+            "manage_billing"
+          ],
+          "org_id": "ORG-000018"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-008398",
+          "new_permissions": [
+            "admin",
+            "manage_users",
+            "manage_billing"
+          ],
+          "org_id": "ORG-000018"
+        }
+      },
+      {
+        "name": "modify_user_permissions",
+        "arguments": {
+          "user_id": "USR-008399",
+          "new_permissions": [
+            "admin",
+            "manage_users",
+            "manage_billing"
+          ],
+          "org_id": "ORG-000018"
+        }
+      }
+    ],
+    "outputs": []
+  }
+]

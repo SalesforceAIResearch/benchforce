@@ -1,0 +1,72 @@
+{
+  "DEPT001": {
+    "department_id": "DEPT001",
+    "name": "Emergency",
+    "description": "Emergency medical services",
+    "location": "Ground Floor, Wing A",
+    "phone": "555-3001"
+  },
+  "DEPT002": {
+    "department_id": "DEPT002",
+    "name": "Cardiology",
+    "description": "Heart and cardiovascular care",
+    "location": "Second Floor, Wing B",
+    "phone": "555-3002"
+  },
+  "DEPT003": {
+    "department_id": "DEPT003",
+    "name": "Internal Medicine",
+    "description": "General internal medicine",
+    "location": "Third Floor, Wing C",
+    "phone": "555-3003"
+  },
+  "DEPT004": {
+    "department_id": "DEPT004",
+    "name": "Orthopedics",
+    "description": "Bone and joint care",
+    "location": "Fourth Floor, Wing A",
+    "phone": "555-3004"
+  },
+  "DEPT005": {
+    "department_id": "DEPT005",
+    "name": "Pediatrics",
+    "description": "Children's healthcare",
+    "location": "Second Floor, Wing C",
+    "phone": "555-3005"
+  },
+  "DEPT006": {
+    "department_id": "DEPT006",
+    "name": "Neurology",
+    "description": "Brain and nervous system care",
+    "location": "Fifth Floor, Wing B",
+    "phone": "555-3006"
+  },
+  "DEPT007": {
+    "department_id": "DEPT007",
+    "name": "Dermatology",
+    "description": "Skin and cosmetic care",
+    "location": "Third Floor, Wing A",
+    "phone": "555-3007"
+  },
+  "DEPT008": {
+    "department_id": "DEPT008",
+    "name": "Psychiatry",
+    "description": "Mental health services",
+    "location": "Sixth Floor, Wing C",
+    "phone": "555-3008"
+  },
+  "DEPT009": {
+    "department_id": "DEPT009",
+    "name": "Obstetrics",
+    "description": "Pregnancy and childbirth care",
+    "location": "Fourth Floor, Wing B",
+    "phone": "555-3009"
+  },
+  "DEPT010": {
+    "department_id": "DEPT010",
+    "name": "Laboratory",
+    "description": "Medical testing and analysis",
+    "location": "Basement, Wing A",
+    "phone": "555-3010"
+  }
+}

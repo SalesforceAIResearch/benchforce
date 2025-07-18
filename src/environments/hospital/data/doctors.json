@@ -1,0 +1,72 @@
+{
+  "D1001": {
+    "doctor_id": "D1001",
+    "name": "Dr. John Adams",
+    "specialty": "Emergency Medicine",
+    "department": "Emergency",
+    "phone": "555-2001"
+  },
+  "D1002": {
+    "doctor_id": "D1002",
+    "name": "Dr. Sarah Johnson",
+    "specialty": "Cardiology",
+    "department": "Cardiology",
+    "phone": "555-2002"
+  },
+  "D1003": {
+    "doctor_id": "D1003",
+    "name": "Dr. Amanda Taylor",
+    "specialty": "Internal Medicine",
+    "department": "Internal Medicine",
+    "phone": "555-2003"
+  },
+  "D1004": {
+    "doctor_id": "D1004",
+    "name": "Dr. Robert Chen",
+    "specialty": "Orthopedics",
+    "department": "Orthopedics",
+    "phone": "555-2004"
+  },
+  "D1005": {
+    "doctor_id": "D1005",
+    "name": "Dr. Michael Chen",
+    "specialty": "Cardiology",
+    "department": "Cardiology",
+    "phone": "555-2005"
+  },
+  "D1006": {
+    "doctor_id": "D1006",
+    "name": "Dr. Lisa Wilson",
+    "specialty": "Pediatrics",
+    "department": "Pediatrics",
+    "phone": "555-2006"
+  },
+  "D1007": {
+    "doctor_id": "D1007",
+    "name": "Dr. David Brown",
+    "specialty": "Neurology",
+    "department": "Neurology",
+    "phone": "555-2007"
+  },
+  "D1008": {
+    "doctor_id": "D1008",
+    "name": "Dr. Jennifer Martinez",
+    "specialty": "Dermatology",
+    "department": "Dermatology",
+    "phone": "555-2008"
+  },
+  "D1009": {
+    "doctor_id": "D1009",
+    "name": "Dr. William Davis",
+    "specialty": "Psychiatry",
+    "department": "Psychiatry",
+    "phone": "555-2009"
+  },
+  "D1010": {
+    "doctor_id": "D1010",
+    "name": "Dr. Maria Rodriguez",
+    "specialty": "Obstetrics",
+    "department": "Obstetrics",
+    "phone": "555-2010"
+  }
+}

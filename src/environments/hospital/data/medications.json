@@ -1,0 +1,162 @@
+{
+  "M4001": {
+    "patient_id": "P2001",
+    "medication_name": "Lisinopril",
+    "dosage": "10mg",
+    "frequency": "Once daily",
+    "doctor_id": "D1002",
+    "medication_id": "M4001"
+  },
+  "M4002": {
+    "patient_id": "P2003",
+    "medication_name": "Metformin",
+    "dosage": "500mg",
+    "frequency": "Twice daily",
+    "doctor_id": "D1003",
+    "medication_id": "M4002"
+  },
+  "M4003": {
+    "patient_id": "P2005",
+    "medication_name": "Ibuprofen",
+    "dosage": "400mg",
+    "frequency": "Three times daily",
+    "doctor_id": "D1004",
+    "medication_id": "M4003"
+  },
+  "M4004": {
+    "patient_id": "P2005",
+    "medication_name": "Calcium Carbonate",
+    "dosage": "500mg",
+    "frequency": "Twice daily with meals",
+    "doctor_id": "D1004",
+    "medication_id": "M4004"
+  },
+  "M4005": {
+    "patient_id": "P2006",
+    "medication_name": "Oxycodone",
+    "dosage": "5mg",
+    "frequency": "Every 4-6 hours as needed",
+    "doctor_id": "D1004",
+    "medication_id": "M4005"
+  },
+  "M4006": {
+    "patient_id": "P2006",
+    "medication_name": "Docusate Sodium",
+    "dosage": "100mg",
+    "frequency": "Twice daily",
+    "doctor_id": "D1004",
+    "medication_id": "M4006"
+  },
+  "M4007": {
+    "patient_id": "P2007",
+    "medication_name": "Gabapentin",
+    "dosage": "300mg",
+    "frequency": "Three times daily",
+    "doctor_id": "D1007",
+    "medication_id": "M4007"
+  },
+  "M4008": {
+    "patient_id": "P2008",
+    "medication_name": "Atorvastatin",
+    "dosage": "20mg",
+    "frequency": "Once daily at bedtime",
+    "doctor_id": "D1002",
+    "medication_id": "M4008"
+  },
+  "M4009": {
+    "patient_id": "P2008",
+    "medication_name": "Aspirin",
+    "dosage": "81mg",
+    "frequency": "Once daily",
+    "doctor_id": "D1002",
+    "medication_id": "M4009"
+  },
+  "M4010": {
+    "patient_id": "P2009",
+    "medication_name": "Sertraline",
+    "dosage": "50mg",
+    "frequency": "Once daily",
+    "doctor_id": "D1009",
+    "medication_id": "M4010"
+  },
+  "M4011": {
+    "patient_id": "P2009",
+    "medication_name": "Lorazepam",
+    "dosage": "0.5mg",
+    "frequency": "As needed for anxiety",
+    "doctor_id": "D1009",
+    "medication_id": "M4011"
+  },
+  "M4012": {
+    "patient_id": "P2010",
+    "medication_name": "Prenatal Vitamins",
+    "dosage": "1 tablet",
+    "frequency": "Once daily",
+    "doctor_id": "D1010",
+    "medication_id": "M4012"
+  },
+  "M4013": {
+    "patient_id": "P2010",
+    "medication_name": "Folic Acid",
+    "dosage": "400mcg",
+    "frequency": "Once daily",
+    "doctor_id": "D1010",
+    "medication_id": "M4013"
+  },
+  "M4014": {
+    "patient_id": "P2011",
+    "medication_name": "Hydrocortisone Cream",
+    "dosage": "1%",
+    "frequency": "Apply twice daily",
+    "doctor_id": "D1008",
+    "medication_id": "M4014"
+  },
+  "M4015": {
+    "patient_id": "P2012",
+    "medication_name": "Albuterol Inhaler",
+    "dosage": "90mcg",
+    "frequency": "2 puffs every 4-6 hours as needed",
+    "doctor_id": "D1001",
+    "medication_id": "M4015"
+  },
+  "M4016": {
+    "patient_id": "P2012",
+    "medication_name": "Fluticasone Nasal Spray",
+    "dosage": "50mcg",
+    "frequency": "2 sprays each nostril once daily",
+    "doctor_id": "D1001",
+    "medication_id": "M4016"
+  },
+  "M4017": {
+    "patient_id": "P2013",
+    "medication_name": "Levothyroxine",
+    "dosage": "75mcg",
+    "frequency": "Once daily on empty stomach",
+    "doctor_id": "D1003",
+    "medication_id": "M4017"
+  },
+  "M4018": {
+    "patient_id": "P2014",
+    "medication_name": "Amoxicillin",
+    "dosage": "500mg",
+    "frequency": "Three times daily for 7 days",
+    "doctor_id": "D1006",
+    "medication_id": "M4018"
+  },
+  "M4019": {
+    "patient_id": "P2015",
+    "medication_name": "Warfarin",
+    "dosage": "5mg",
+    "frequency": "Once daily",
+    "doctor_id": "D1002",
+    "medication_id": "M4019"
+  },
+  "M4020": {
+    "patient_id": "P2002",
+    "medication_name": "Omeprazole",
+    "dosage": "20mg",
+    "frequency": "Once daily before breakfast",
+    "doctor_id": "D1003",
+    "medication_id": "M4020"
+  }
+}

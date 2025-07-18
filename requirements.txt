@@ -1,0 +1,16 @@
+aiofiles==24.1.0
+aiohttp==3.12.13
+backoff==2.2.1
+deepgram-sdk==3.10.1
+elevenlabs==1.58.1
+librosa==0.11.0
+numpy==2.2.6  # was 2.3.0 (DOWNGRADED -- causes a version conflict with numba 0.53.1 requiring python 3.6 to 3.9)
+openai==1.78.1
+pandas==2.3.0
+pydub==0.25.1
+python-dotenv==1.1.0
+pyyaml==6.0.2
+scipy==1.15.3
+tiktoken==0.9.0
+tqdm==4.67.1
+websockets==15.0.1

@@ -1,0 +1,47 @@
+{
+  "A3001": {
+    "appointment_id": "A3001",
+    "patient_id": "P2001",
+    "doctor_id": "D1002",
+    "appointment_time": "9:00 AM",
+    "appointment_date": "2024-01-15",
+    "department": "Cardiology",
+    "status": "scheduled"
+  },
+  "A3002": {
+    "appointment_id": "A3002",
+    "patient_id": "P2003",
+    "doctor_id": "D1003",
+    "appointment_time": "11:00 AM",
+    "appointment_date": "2024-01-16",
+    "department": "Internal Medicine",
+    "status": "scheduled"
+  },
+  "A3003": {
+    "appointment_id": "A3003",
+    "patient_id": "P2005",
+    "doctor_id": "D1004",
+    "appointment_time": "2:00 PM",
+    "appointment_date": "2024-01-17",
+    "department": "Orthopedics",
+    "status": "scheduled"
+  },
+  "A3004": {
+    "appointment_id": "A3004",
+    "patient_id": "P2007",
+    "doctor_id": "D1006",
+    "appointment_time": "3:00 PM",
+    "appointment_date": "2024-01-18",
+    "department": "Pediatrics",
+    "status": "scheduled"
+  },
+  "A3005": {
+    "appointment_id": "A3005",
+    "patient_id": "P2008",
+    "doctor_id": "D1007",
+    "appointment_time": "10:00 AM",
+    "appointment_date": "2024-01-19",
+    "department": "Neurology",
+    "status": "completed"
+  }
+}
