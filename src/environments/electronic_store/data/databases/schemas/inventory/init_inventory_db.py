@@ -16,7 +16,7 @@ def create_inventory_schema(cursor: sqlite3.Cursor) -> None:
     cursor.execute("""
         CREATE TABLE categories (
             category_id    TEXT PRIMARY KEY,
-            category_code  TEXT NOT NULL,
+            category_code  TEXT NOT NULL UNIQUE,
             category_name  TEXT NOT NULL,
             description    TEXT
         )
@@ -25,7 +25,7 @@ def create_inventory_schema(cursor: sqlite3.Cursor) -> None:
     cursor.execute("""
         CREATE TABLE brands (
             brand_id       TEXT PRIMARY KEY,
-            brand_code     TEXT NOT NULL,
+            brand_code     TEXT NOT NULL UNIQUE,
             brand_name     TEXT NOT NULL,
             country_origin TEXT,
             is_flagship    INTEGER NOT NULL DEFAULT 0
@@ -35,12 +35,12 @@ def create_inventory_schema(cursor: sqlite3.Cursor) -> None:
     cursor.execute("""
         CREATE TABLE branches (
             branch_id    TEXT PRIMARY KEY,
-            branch_code  TEXT NOT NULL,
+            branch_code  TEXT NOT NULL UNIQUE,
             branch_name  TEXT NOT NULL,
             city         TEXT,
             state        TEXT,
             ZIP_code     TEXT,
-            phone        TEXT,
+            phone        TEXT NOT NULL UNIQUE,
             manager_name TEXT
         )
     """)
@@ -49,6 +49,7 @@ def create_inventory_schema(cursor: sqlite3.Cursor) -> None:
         CREATE TABLE products (
             product_id      TEXT PRIMARY KEY,
             barcode         TEXT NOT NULL,
+            model_number    TEXT NOT NULL,       
             category_id     TEXT NOT NULL,
             brand_id        TEXT NOT NULL,
             branch_id       TEXT NOT NULL,
@@ -57,7 +58,7 @@ def create_inventory_schema(cursor: sqlite3.Cursor) -> None:
             year_of_release TEXT NOT NULL,  -- ISO date string
             quantity        INTEGER NOT NULL,
             warranty_Months INTEGER NOT NULL,
-            price           REAL NOT NULL,
+            price           NUMERIC NOT NULL,
             FOREIGN KEY (category_id) REFERENCES categories(category_id),
             FOREIGN KEY (brand_id)    REFERENCES brands(brand_id),
             FOREIGN KEY (branch_id)   REFERENCES branches(branch_id)
