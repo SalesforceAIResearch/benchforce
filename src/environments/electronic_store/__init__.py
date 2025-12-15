@@ -1,9 +1,8 @@
 import os
 
-from .functions import FUNCTIONS_MAP
+from src.environments.electronic_store.functions import FUNCTIONS_MAP
 from .entries import entries
 from .filter_schema import filter_schema
-from .data import load_json_files
 
 CURRENT_PATH = os.path.dirname(__file__)
 
@@ -21,7 +20,6 @@ config = {
     "functions": FUNCTIONS_MAP,
     "entries": entries_with_num,
     "filter_schema": filter_schema,
-    "data": load_json_files(),
     "instructions": INSTRUCTIONS,
 }
 
